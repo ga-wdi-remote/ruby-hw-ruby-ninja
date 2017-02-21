@@ -92,14 +92,16 @@ If you're not sure about something, be comfortable searching the [Ruby Docs](htt
 - Create a While loop that prints every value in ```secondRange``` while x < 50.
 - Using .each multiply every other value in ```firstRange``` by two and push those values into a new Array.  Print that array to the terminal.
 - Using .map and if/else statements, iterate through ```firstRange``` and change every even value to a string.  If the value is odd, don't change the value to a string.
-- :dart: Commit -m "8. I'm a Ninja Warrior. Bow down to me."
+- :dart: Commit -m "8. Range skills."
 
 ## Challenge 9: Sum of Natural Numbers
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
 Find the sum of all the multiples of 3 or 5 below 1000 using Ruby.
 
-## The Final Challenge: Prime Numbers
+- :dart: Commit -m "9. Loop skills."
+
+## The Final Challenge.... for Now: Prime Numbers
 
 Write a method called `check_prime?` that will test whether a number is Prime. The method will return true if Prime, false if not.
 
@@ -107,6 +109,7 @@ Write another method called `get_primes` that will print all the Primes up to an
 
 This method can call on the previous `check_prime?` method.
 
+- :dart: Commit -m "10. I'm a Ninja Warrior. Bow down to me."
 
 > A Prime number is a number that is not evenly divisible by another number except 1 and itself.
 
